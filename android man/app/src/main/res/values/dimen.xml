@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tittlTxtSize">30sp</dimen>
+    <dimen name="bootmTxtTxtSize">20sp</dimen>
+    <dimen name="imgHeight">400sp</dimen>
+    <dimen name="imgWidth">300sp</dimen>
+
+
+    <!--andoide man - head dimensns-->
+    <!--head box diminstions-->
+    <dimen name="head_box_height">41dp</dimen>
+    <dimen name="head_box_width">107dp</dimen>
+
+    <!--eye box diminstions-->
+    <dimen name="eye_box_height">10dp</dimen>
+    <dimen name="eye_box_width">22dp</dimen>
+
+    <!--arm box diminstions-->
+    <dimen name="arm_box_height">182dp</dimen>
+    <dimen name="arm_box_width">42dp</dimen>
+
+    <!--mid box diminstions-->
+    <dimen name="mid_box_height">223dp</dimen>
+    <dimen name="mid_box_width">219dp</dimen>
+
+    <!--leg box diminstions-->
+    <dimen name="leg_box_height">89dp</dimen>
+    <dimen name="leg_box_width">42dp</dimen>
+
+    <!--foot box diminstions-->
+    <dimen name="foot_box_height">27dp</dimen>
+    <dimen name="foot_box_width">60dp</dimen>
+
+
+    <dimen name="titleTxtSize">30sp</dimen>
+    <dimen name="mid_margine">20dp</dimen>
+    <dimen name="small_margine">10dp</dimen>
+    <dimen name="larg_margine">30dp</dimen>
+</resources>

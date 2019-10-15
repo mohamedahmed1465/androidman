@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="titleColr">#ffffff</color>
+    <color name="backgroundColr">#57cba3</color>
+
+    <!--andooid man colors-->
+    <color name="boxColor">#A4CA39</color>
+    <color name="titlecolor">#0B7EA0</color>
+</resources>
